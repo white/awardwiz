@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "debugging information"
+echo "debugging information" >&2
